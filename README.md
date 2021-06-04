@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Bienvenidos a mi GitHub, soy Kevin!</h2>
+<h2> Welcome to GitHub, I'm Kevin!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 

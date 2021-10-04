@@ -48,9 +48,20 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/KevinCamos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinCamos&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCamos&layout=compact" />
+  
 </a>
+<a href="https://github.com/KevinCamos">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCamos&layout=compact&theme=dark"  width = 400/>
+</p>
+  <p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=KevinCamos&show_icons=true&theme=bear" width = 400>
+  </p>
+  <p>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=KevinCamos&theme=dark&hide_border=true" width = 400>
+  </p>
+</a>
+
 
 <br/>
 

@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![PHP](  https://img.shields.io/badge/-PHP%20OO-333333?style=flat&logo=php)
-  ![JavaScript Native](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![JQuery](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript Native](https://img.shields.io/badge/-JavaScript%20Native-333333?style=flat&logo=javascript)
+  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 - 🛢 &nbsp;

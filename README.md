@@ -24,16 +24,20 @@ Here are some ideas to get you started:
 
 <h3> 🛠 &nbsp;Skills</h3>
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
 - 🌐 &nbsp;
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![ExpressJs](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![PHP](  https://img.shields.io/badge/-PHP%20OO-333333?style=flat&logo=php)
   ![JavaScript Native](https://img.shields.io/badge/-JavaScript%20Native-333333?style=flat&logo=javascript)
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  - 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)

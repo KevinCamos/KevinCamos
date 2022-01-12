@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 
 - 🌐 &nbsp;
+- ![React](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=react)
+  ![Django](https://img.shields.io/badge/-Go-333333?style=flat&logo=django)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)

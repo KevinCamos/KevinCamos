@@ -24,10 +24,71 @@ Here are some ideas to get you started:
 
 <h3> 🛠 &nbsp;Skills</h3>
 
+</p>
 
+<!--
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="30px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angularjs.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+  </kbd>
+  <br>
+    <kbd>
+    <kbd>Design Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://v4.mui.com/static/logo.png" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+  </kbd>
+  <kbd>
+    <kbd>Terminal Scripts</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue-thumbnail.png" />
+  </kbd>
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://es.wikipedia.org/wiki/Archivo:Windows_10x_Icon.png" />
+  </kbd>
+</p>
+-->
 - 🌐 &nbsp;
-- ![React](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=react)
-  ![Django](https://img.shields.io/badge/-Go-333333?style=flat&logo=django)
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)

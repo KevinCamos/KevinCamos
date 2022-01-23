@@ -132,16 +132,4 @@ Here are some ideas to get you started:
   </p>
 </a>
 
-
 <br/>
-
-<!--
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="mailto:andanivicente@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andanivicente@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-<p align="center">
-Check out my repos ⬇️ 
-</p>-->

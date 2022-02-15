@@ -28,33 +28,7 @@ Here are some ideas to get you started:
 
 
 <p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="56px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
-    
-    
-  </kbd>
-    <kbd>
-    <kbd>Full-Stack</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  </kbd>
+  
   <kbd>
     <kbd>Library/FrameWorks Frontend</kbd>
     <br>
@@ -72,7 +46,36 @@ Here are some ideas to get you started:
     <img width="50px" src="https://nashvillesoftwareschool.com/images/technologies/express.png" />
 
   </kbd>
-  <br>
+  <br/>
+  <br/>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="56px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
+  </kbd>
+    <kbd>
+    <kbd>Full-Stack</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+  </kbd>
+
+  <br/>
+  <br/>
     <kbd>
     <kbd>Design Library/FrameWorks</kbd>
     <br>
@@ -83,7 +86,6 @@ Here are some ideas to get you started:
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
-    <br>
     <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   </kbd>

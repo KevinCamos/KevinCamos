@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </kbd>
     <kbd>
-    <kbd>Library/FrameWorks Backend</kbd>
+    <kbd>FrameWorks Backend</kbd>
     <br>
     <br>
     <img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Tools</kbd>
+    <kbd>IDE</kbd>
     <br>
     <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
   </kbd>
    </kbd>
     <kbd>
-    <kbd>Others</kbd>
+    <kbd>Deploys</kbd>
     <br>
     <br>
     <img width="65px" src="https://miro.medium.com/max/792/1*VPkO6cXHVK5uDWiQig3jdQ.png" />

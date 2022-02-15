@@ -87,6 +87,7 @@ Here are some ideas to get you started:
   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
+    <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   </kbd>
   <kbd>

@@ -44,16 +44,33 @@ Here are some ideas to get you started:
     <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img width="56px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
+    
+    
+  </kbd>
+    <kbd>
+    <kbd>Full-Stack</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
   </kbd>
   <kbd>
-    <kbd>Library/FrameWorks</kbd>
+    <kbd>Library/FrameWorks Frontend</kbd>
     <br>
     <br>
     <img width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  </kbd>
+    <kbd>
+    <kbd>Library/FrameWorks Backend</kbd>
+    <br>
+    <br>
     <img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+    <img width="75px" src="https://nurtem.com/wp-content/uploads/2021/01/django-1080x675.png" />
+    <img width="50px" src="https://nashvillesoftwareschool.com/images/technologies/express.png" />
+
   </kbd>
   <br>
     <kbd>

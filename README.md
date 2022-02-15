@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   <kbd>
-    <kbd>Front-end</kbd>
+    <kbd>Frontend</kbd>
     <br>
     <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   </kbd>
   <kbd>
-    <kbd>Back-end</kbd>
+    <kbd>Backend</kbd>
     <br>
     <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -117,6 +117,13 @@ Here are some ideas to get you started:
     <br>
     <img width="65px" src="https://miro.medium.com/max/792/1*VPkO6cXHVK5uDWiQig3jdQ.png" />
     <img width="65px" src="https://logowik.com/content/uploads/images/jenkins8460.jpg" />
+    <img width="63px" src="https://usercontent.one/wp/www.raulferrergarcia.com/wp-content/uploads/2020/01/GithubActionsLogo.png" />
+  </kbd>
+      <kbd>
+    <kbd>Testing</kbd>
+    <br>
+    <br>
+    <img width="49px" src="https://pbs.twimg.com/profile_images/1415409062322360329/Vl8p-QqO_400x400.jpg" />
   </kbd>
 </p>
 

@@ -33,17 +33,17 @@ Here are some ideas to get you started:
     <kbd>Library/FrameWorks Frontend</kbd>
     <br>
     <br>
-    <img width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img height="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </kbd>
     <kbd>
     <kbd>FrameWorks Backend</kbd>
     <br>
     <br>
-    <img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
-    <img width="75px" src="https://nurtem.com/wp-content/uploads/2021/01/django-1080x675.png" />
-    <img width="50px" src="https://nashvillesoftwareschool.com/images/technologies/express.png" />
+    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+    <img height="50px" src="https://nurtem.com/wp-content/uploads/2021/01/django-1080x675.png" />
+    <img height="50px" src="https://nashvillesoftwareschool.com/images/technologies/express.png" />
 
   </kbd>
   <br/>
@@ -52,25 +52,25 @@ Here are some ideas to get you started:
     <kbd>Frontend</kbd>
     <br>
     <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   </kbd>
   <kbd>
     <kbd>Backend</kbd>
     <br>
     <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="56px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img height="50px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
   </kbd>
     <kbd>
     <kbd>Full-Stack</kbd>
     <br>
     <br>
-    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
   </kbd>
 
@@ -80,50 +80,50 @@ Here are some ideas to get you started:
     <kbd>Design Library/FrameWorks</kbd>
     <br>
     <br>
-    <img width="50px" src="https://v4.mui.com/static/logo.png" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img height="50px" src="https://v4.mui.com/static/logo.png" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
   </kbd>
   <kbd>
-    <kbd>Terminal Scripts</kbd>
+    <kbd>Terminal</kbd>
     <br>
     <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   </kbd>
   <kbd>
     <kbd>IDE</kbd>
     <br>
     <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="50px" src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue-thumbnail.png" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img height="50px" src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue-thumbnail.png" />
   </kbd>
   <kbd>
     <kbd>OS</kbd>
     <br>
     <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   </kbd>
     <kbd>
     <kbd>BBDDD</kbd>
     <br>
     <br>
-    <img width="50px" src="https://toppng.com/uploads/preview/mysql-logo-11536003912o2fjzalzdb.png" />
-    <img width="50px" src="https://www.itnetwork.cz/images/46772/lekce5/mdb.png" />
+    <img height="50px" src="https://toppng.com/uploads/preview/mysql-logo-11536003912o2fjzalzdb.png" />
+    <img height="50px" src="https://www.itnetwork.cz/images/46772/lekce5/mdb.png" />
   </kbd>
    </kbd>
     <kbd>
     <kbd>Deploys</kbd>
     <br>
     <br>
-    <img width="65px" src="https://miro.medium.com/max/792/1*VPkO6cXHVK5uDWiQig3jdQ.png" />
-    <img width="65px" src="https://logowik.com/content/uploads/images/jenkins8460.jpg" />
-    <img width="63px" src="https://usercontent.one/wp/www.raulferrergarcia.com/wp-content/uploads/2020/01/GithubActionsLogo.png" />
+    <img height="50px" src="https://miro.medium.com/max/792/1*VPkO6cXHVK5uDWiQig3jdQ.png" />
+    <img height="50px" src="https://logowik.com/content/uploads/images/jenkins8460.jpg" />
+    <img height="50px" src="https://usercontent.one/wp/www.raulferrergarcia.com/wp-content/uploads/2020/01/GithubActionsLogo.png" />
   </kbd>
       <kbd>
     <kbd>Testing</kbd>
     <br>
     <br>
-    <img width="49px" src="https://pbs.twimg.com/profile_images/1415409062322360329/Vl8p-QqO_400x400.jpg" />
+    <img height="50px" src="https://pbs.twimg.com/profile_images/1415409062322360329/Vl8p-QqO_400x400.jpg" />
   </kbd>
 </p>
 
